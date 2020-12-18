@@ -9,12 +9,12 @@ class kucing {
    
    //method construct di jalankan pertama kali
    function __construct(){
-          echo "ini adalah method construct <br/>";
+          echo "ini adalah isi method construct <br/>";
    }
    
    //method destruct di jalankan terakhir
    function __destruct(){
-          echo "ini adalah method destruct <br/>";
+          echo "ini adalah isi method destruct <br/>";
    }
    
    //method kucing 
