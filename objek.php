@@ -6,12 +6,12 @@ class kucing {
    var $makanan;      
    
    //method kucing 
-  function berdiri() {
-   //... isi method
+ function berdiri(){
+          return "kucingnya berdiri <br/>";
    }
- 
+
    function duduk() {
-   //... isi method
+          return "kucingnya duduk <br/>";
    }
    
 }
