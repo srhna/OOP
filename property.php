@@ -1,8 +1,8 @@
 <?php
-class kucing {
-   var $jenis;
-   var $warna_bulu;
-   var $makanan;
-   // lanjutan isi dari class kucing...
+class kucing {              //class kucing
+   var $jenis;              //property jenis
+   var $warna_bulu;         //property warna bulu
+   var $makanan;            //property makanan
+   
 }
 ?>
