@@ -7,7 +7,7 @@ class kucing {
    
    //method public
    public function tampilkan_nama(){
-          return "nama kucingnya " .$this-nama>;
+          return "nama kucingnya " .$this->nama;
    }
 
 }
