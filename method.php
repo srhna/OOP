@@ -1,12 +1,18 @@
 <?php
-class kucing {
-   function berdiri() {
-   //... isi dari method bediri
+class kucing {      
+   //property oop
+   var $jenis;              
+   var $warna_bulu;         
+   var $makanan;      
+   
+   //method oop
+  function berdiri() {
+   //... isi method
    }
  
    function duduk() {
-   //... isi dari method duduk
+   //... isi method
    }
-
+   
 }
 ?>
